@@ -124,7 +124,7 @@ class FigurasPA{
                     System.out.println("Gracias por visitarnos :3");
             }        
         
-            //Gravias minorcito :3
+            //Gracias minorcito :3
             System.out.println("Si deseas repetir el programa presiona s");
             exit = entrada.next().charAt(0);
         }while (exit == 's');
